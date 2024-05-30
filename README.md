@@ -18,6 +18,3 @@ Parse the rules to fill the dictionary.
 - **Time Complexity:** Parsing the rules takes \( O(L) \), where \( L \) is the number of rules. Each user input involves an \( O(1) \) dictionary lookup, making it efficient.
 - **Space Complexity:** Storing the rules in the dictionary takes \( O(L) \).
 
-## Installation
-
-Step-by-step instructions on how to install and get the project running.
